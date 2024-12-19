@@ -1,0 +1,4 @@
+v0.2.0 - December 18, 2024
+-Added random password length customization.
+-Added "view password" feature.
+-Master password validation
