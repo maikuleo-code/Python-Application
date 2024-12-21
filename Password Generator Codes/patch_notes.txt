@@ -1,4 +1,16 @@
 v0.2.0 - December 18, 2024
--Added random password length customization.
--Added "view password" feature.
--Master password validation
+- Added random password length customization.
+- Added "View Password" feature.
+- Implemented master password validation.
+
+v0.3.0 - December 19, 2024
+- Added password strength algorithm.
+- Improved the GUI for the "Save Password" feature.
+- Combined "Enter Label/Description" and "Enter Password" fields into one box.
+- Added customization for random password length.
+- Added "View Password" feature.
+- Added password strength display with real-time feedback.
+- Implemented password visibility toggle using an eye icon.
+- Integrated encryption for password storage using Fernet encryption.
+- Enabled update checking and patch note display.
+- Added duplicate label and password check when saving passwords.
